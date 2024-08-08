@@ -1,2 +1,3 @@
 link3 = int(input("Digite uma quantidade de clicks"))
-print(link3 * 4 )
+mult = int(input("Digite a quantidade de Multiplicacao"))
+print(link3 * mult)
